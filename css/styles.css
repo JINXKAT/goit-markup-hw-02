@@ -6,8 +6,7 @@ body {
 
 /* header */
 .logo {
-    font-family: "Raleway", sans-serif;
-    display: flex; 
+    font-family: "Raleway", sans-serif; 
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -136,10 +135,11 @@ body {
 .team-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .team-role {
@@ -155,10 +155,10 @@ body {
 .project-name {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-transform: capitalize
+    text-transform: capitalize;
 }
 
 .project-role {
